@@ -19,7 +19,7 @@ Install [sqlite3](https://www.sqlite.org/download.html/) database.
 
 Install the requirement using the package manager [pip](https://pip.pypa.io/en/stable/).
 
-pip install --requirement requirements.txt
+    pip install --requirement requirements.txt
 
 ## Usage
 
